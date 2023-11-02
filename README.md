@@ -1,10 +1,7 @@
 <br clear="both">
 
-
-###
-
 <div align="center">
-  <img height="200" src="file:///C:/Users/Rw/Desktop/Screenshot%202023-10-28%20231248.png"  />
+
 </div>
 
 ###
