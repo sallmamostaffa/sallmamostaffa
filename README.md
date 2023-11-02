@@ -1,7 +1,5 @@
 <br clear="both">
 
-<h1 align="center">Hi </h1>
-
 
 ###
 
@@ -26,8 +24,15 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.kaggle.com/sallmammostaffa" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/6c213e8cbf705da09da24def6d5e28b8a79291205f363678a953b3e6732d5096/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3033356137643f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://codeforces.com/profile/sallma" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/192b05ae3de2f0d8d73c7b32767d36a88a4706a5eed3b3e139b6aa49da16731e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&amp;logo=Codeforces&amp;logoColor=white" style="max-width: 100%;">
+  </a>
 </div>
-
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/16cefe007491827b9503c1736b4fa91d7b933075aa66883e19cf6ca32853ae40/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d64617769646f6c6b6f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/16cefe007491827b9503c1736b4fa91d7b933075aa66883e19cf6ca32853ae40/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d64617769646f6c6b6f266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="liliansteven" data-canonical-src="https://komarev.com/ghpvc/?username=dawidolko&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+  
 ###
 
 <div align="center"> 
@@ -57,8 +62,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sallmamostaffa/sallmamostaffa/output/snake.svg" alt="Snake animation" />
-<a href="https://www.github.com/sallmamostaffa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sallmamostaffa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+
 
 
